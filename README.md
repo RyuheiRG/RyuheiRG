@@ -1,5 +1,5 @@
 - 😎 привет, I’m Ricardo Reyes Gomez
-- 🤑 I like videogames, manga, anime, technology, discussing fictitious characters, and learning new things.
-- 🌱 I’m currently learning React.js
+- 🤑 I like technology, discussing fictitious characters, and learning new things.
+- 🌱 I’m currently learning React.Js, TypeScript and Node.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
