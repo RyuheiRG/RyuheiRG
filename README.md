@@ -1,4 +1,4 @@
-- 😎 привет, I’m Ricardo Reyes Gomez
+- 😎 Hi, I’m Ricardo Reyes Gomez
 - 🤑 I like technology, discussing fictitious characters, and learning new things.
 - 🌱 I’m currently learning React.Js, TypeScript and Node.Js
 - 💞️ I’m looking to collaborate on ...
