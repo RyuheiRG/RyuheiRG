@@ -40,12 +40,11 @@
 
 *   **Tarjetas de Estadísticas:** Muestra total de estrellas, commits, pull requests, etc.
 
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryuhei GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuheiRG)](https://github.com/RyuheiRG/github-readme-stats)
 
 *   **Tarjetas de Lenguajes Principales:**
 
-    [![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/ryuheirg/github-readme-stats)
 
 ---
 
