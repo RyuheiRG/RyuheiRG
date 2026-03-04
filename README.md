@@ -38,9 +38,14 @@
 
 ### 📊 Análisis de Actividad
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuheiRG&show_icons=true&title_color=8a0303&icon_color=8a0303&bg_color=000000&text_color=d3d3d3&border_color=8a0303)](https://github.com/RyuheiRG)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuheiRG&layout=compact&title_color=8a0303&icon_color=8a0303&bg_color=000000&text_color=d3d3d3&border_color=8a0303)](https://github.com/RyuheiRG)
+*   **Tarjetas de Estadísticas:** Muestra total de estrellas, commits, pull requests, etc.
+    ```markdown
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+    ```
+*   **Tarjetas de Lenguajes Principales:**
+    ```markdown
+    [![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+    ```
 
 ---
 
