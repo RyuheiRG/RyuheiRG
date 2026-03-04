@@ -42,16 +42,14 @@
 
 ### 📊 Activity Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuheiRG&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuheiRG&layout=compact&theme=github_dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RyuheiRG&theme=github-dark)
 
 ---
 
 ### 📞 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/ryuhei-rg/
-- **Email:** rrg8510 [at] gmail [dot] com
+- **Email:** rrg8510@gmail.com
 - **GitHub:** https://github.com/RyuheiRG
 
 ---
