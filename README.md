@@ -10,7 +10,7 @@
 ---
 
 ### 🧩 Perfil del Sistema
-* **Actualidad:** Cursando el 2do cuatrimestre de Ingeniería en TI e Innovación Digital.
+* **Actualidad:** Estudiante de Ingeniería en TI e Innovación Digital.
 * **Filosofía:** "Don't trust, verify". Priorizo el **Clean Code**, la escalabilidad y la reducción de superficies de ataque.
 * **Intereses:** Sistemas determinísticos, IA Generativa (Prompt Engineering) y narrativas complejas.
 
@@ -37,17 +37,17 @@
 ---
 
 ### 📊 Análisis de Actividad
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyuheiRG&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuheiRG&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RyuheiRG&show_icons=true&theme=tokyonight&count_private=true)
+
+![Idiomas principales](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuheiRG&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📞 Contacto / Connect
-* [cite_start]**LinkedIn:** [linkedin.com/in/ryuhei-rg/](https://www.linkedin.com/in/ryuhei-rg/) [cite: 5]
-* [cite_start]**Email:** [rrg8510@gmail.com](mailto:rrg8510@gmail.com) [cite: 3]
-* [cite_start]**GitHub:** [RyuheiRG](https://github.com/RyuheiRG) [cite: 4]
+* **LinkedIn:** [linkedin.com/in/ryuhei-rg/](https://www.linkedin.com/in/ryuhei-rg/)
+* **Correo electrónico:** rrg8510@gmail.com
+* **GitHub:** [RyuheiRG](https://github.com/RyuheiRG)
 
 ---
 > "El futuro no está escrito, lo escribimos nosotros a base de código y auditorías."
