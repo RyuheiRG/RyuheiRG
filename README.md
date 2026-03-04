@@ -38,13 +38,9 @@
 
 ### 📊 Análisis de Actividad
 
-*   **Tarjetas de Estadísticas:** Muestra total de estrellas, commits, pull requests, etc.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuheiRG&show_icons=true&title_color=8a0303&icon_color=8a0303&bg_color=000000&text_color=d3d3d3&border_color=8a0303)](https://github.com/RyuheiRG)
 
-[![Ryuhei GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuheiRG)](https://github.com/RyuheiRG/github-readme-stats)
-
-*   **Tarjetas de Lenguajes Principales:**
-
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/ryuheirg/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuheiRG&layout=compact&title_color=8a0303&icon_color=8a0303&bg_color=000000&text_color=d3d3d3&border_color=8a0303)](https://github.com/RyuheiRG)
 
 ---
 
