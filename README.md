@@ -49,7 +49,6 @@
 ### 📞 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/ryuhei-rg/
-- **Email:** rrg8510@gmail.com
 - **GitHub:** https://github.com/RyuheiRG
 
 ---
