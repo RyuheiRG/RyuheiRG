@@ -38,11 +38,9 @@
 
 ### 📊 Análisis de Actividad
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyuheiRG&show_icons=true&theme=blood&title_color=8a0303&icon_color=8a0303&bg_color=000000&text_color=d3d3d3&border_color=8a0303" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuheiRG&layout=compact&theme=blood&title_color=8a0303&icon_color=8a0303&bg_color=000000&text_color=d3d3d3&border_color=8a0303" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuheiRG&show_icons=true&title_color=8a0303&icon_color=8a0303&bg_color=000000&text_color=d3d3d3&border_color=8a0303)](https://github.com/RyuheiRG)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuheiRG&layout=compact&title_color=8a0303&icon_color=8a0303&bg_color=000000&text_color=d3d3d3&border_color=8a0303)](https://github.com/RyuheiRG)
 
 ---
 
