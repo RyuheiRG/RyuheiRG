@@ -39,13 +39,13 @@
 ### 📊 Análisis de Actividad
 
 *   **Tarjetas de Estadísticas:** Muestra total de estrellas, commits, pull requests, etc.
-    ```markdown
+
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-    ```
+
 *   **Tarjetas de Lenguajes Principales:**
-    ```markdown
+
     [![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-    ```
+
 
 ---
 
