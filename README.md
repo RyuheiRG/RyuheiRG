@@ -32,10 +32,10 @@
 - **[Prompt Management System](https://github.com/RyuheiRG)**  
   Fullstack platform (Astro + MySQL) designed to manage AI workflows with deterministic outputs and structured prompt versioning.
 
-- **[Cyber Lin Kuei REST API]((https://github.com/RyuheiRG/API-Rest-Cyber_LinKuei))**  
+- **[Cyber Lin Kuei REST API](https://github.com/RyuheiRG/API-Rest-Cyber_LinKuei)**  
   Robust backend built with Node.js and TypeScript, focused on data integrity, validation layers, and secure architecture.
 
-- **[Tetris JS]((https://github.com/RyuheiRG/Tetris))**  
+- **[Tetris JS](https://github.com/RyuheiRG/Tetris)**  
   Pure logic implementation using Canvas, optimized for performance and state management.
 
 ---
